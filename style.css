@@ -1,0 +1,48 @@
+hr{
+    width: 80px;
+    height:8px ;
+    background-color:lavender;
+}
+img{
+    width:400px;
+    height:400px ;
+    border:10px dashed purple;
+    margin: 50px;
+}
+p{
+    max-width:650px;
+    text-align:justify;
+    line-height: 1.5;
+    font-size: 20px;
+}
+#s1{
+    background:linear-gradient(#B799FF  , #AEE2FF);
+    padding:20px;
+    height: 750px;
+}
+#menu{
+    list-style: none;
+    top: 10px;
+    right: 20px;
+    position:fixed;
+}
+.items{
+     margin:10px;
+     float:left;
+     font-size:20px;
+}
+.items:hover{
+    background-color: plum;
+    font-size: 25px;
+    font-weight: bold;
+    padding:10px;
+}
+a{
+    text-decoration: none;
+}
+#s5 a {
+font-size: 30px;
+}
+#s6 iframe{
+    width:100%;
+}
